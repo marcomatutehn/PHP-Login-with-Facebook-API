@@ -1,5 +1,4 @@
-# IngenieriaSistemas
-
+# Readme
 Proyecto de sistemas operativos
 UNAH - Universidad Nacional Autonoma de Honduras
 
